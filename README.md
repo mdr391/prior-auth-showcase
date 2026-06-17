@@ -91,7 +91,7 @@ This system automates the full PA pipeline using 5 specialized AI agents:
 
 ## Documentation
 
-📄 [Full Technical Walkthrough](docs/prior-auth-walkthrough-v2.docx)  
+📄 [Full Technical Walkthrough](docs/prior-auth-walkthrough-v2.pdf)  
 Covers: What · How · Why · Interview Q&A · Glossary · File Reference
 
 ---
