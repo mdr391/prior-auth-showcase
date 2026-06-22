@@ -1,5 +1,7 @@
 # Healthcare Prior Authorization — Multi-Agent AI System
 
+![CI/CD](https://github.com/mdr391/prior-auth-agent-system/actions/workflows/ci-cd.yml/badge.svg)
+
 > Production-grade multi-agent AI pipeline for prior authorization  
 > aligned with the **CMS-0057-F federal mandate (2026)**  
 > Built with Java 17 · Spring Boot 3.4 · LangChain4j · Anthropic Claude
