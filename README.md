@@ -112,7 +112,8 @@ Covers: What · How · Why · Glossary · File Reference
 **Zahidur Rahman**  
 Senior / Principal Software Engineer  
 15+ years in distributed systems, platform engineering, enterprise Java  
-Healthcare domain: Florida Blue (BCBS), Liberty Mutual  
+Healthcare domain: Florida Blue (BCBS), Cardinal Health
+Insurance domain: Liberty Mutual  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/zahidur-rahman-mdr391)
 
