@@ -10,7 +10,7 @@
 
 ## Architecture
 
-![Architecture Diagram](assets/prior-auth-architecture-v2.png)
+![Architecture Diagram](assets/canva_prior-auth-architecture-v2.png)
 
 ---
 
@@ -95,6 +95,15 @@ This system automates the full PA pipeline using 5 specialized AI agents:
 
 📄 [Full Technical Walkthrough](docs/github_prior-auth-walkthrough-v2.pdf)  
 Covers: What · How · Why · Glossary · File Reference
+
+---
+
+## Request Flow
+
+![Intake](assets/request_flow_part1_intake.png)
+![Agents](assets/request_flow_part2_agents.png)
+![Decision](assets/request_flow_part3_decision.png)
+![Audit](assets/request_flow_part4_audit.png)
 
 ---
 
